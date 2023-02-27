@@ -46,7 +46,7 @@ alert( result );
 
 ## English:
 
-+ English - A1
++ English - A2
 + Russian - Intermediate
 + Ukrainian - Native
 
