@@ -11,8 +11,7 @@
 
 ## About Me
 
-I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
-I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+I am a highly motivated and detail-oriented individual with a passion for achieving success. With excellent communication and interpersonal skills, I am able to work effectively both independently and as part of a team. As a quick learner and problem solver, I am always eager to take on new challenges and develop my skillset. Overall, I am committed to delivering high-quality work and contributing to the success of any project or organization I am a part of.
 
 ## Skills
 
@@ -47,6 +46,5 @@ alert( result );
 ## English:
 
 + English - A1
-+ Russian - Intermediate
 + Ukrainian - Native
 
